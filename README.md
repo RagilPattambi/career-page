@@ -1,6 +1,6 @@
 # career-page
 
-Simple Job Portal
+
 This project is built in PHP using Laravel framework. It serves as a platform between job seeker and provider.
 
 Features
